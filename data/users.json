@@ -1,0 +1,1 @@
+[{"name":"Admin User","email":"admin@example.com","password":"$2a$10$cyCdGQlLJ.th.6kuZ3mYCuRvC8aQlWJpnE6hlKTfCrjMuDTJkTLLu","isAdmin":true},{"name":"John Doe","email":"john@example.com","password":"$2a$10$s6pCvXussD8clZcRkrJWR.ge2SWej/GATaSSW.H8k/dH.OzBUPq/W"},{"name":"Jane Doe","email":"jane@example.com","password":"$2a$10$xL8bRBZZjtgZAIHakVj54u4FDWyPSNGB1gbkZJWB6J2gmTqfmeS.2"}]
